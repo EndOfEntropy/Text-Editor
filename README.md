@@ -1,6 +1,6 @@
 # Text-Editor
 
-An application with an interactive text editor ...
+A text editor program which will calculate Flesch score, generate text using Markov model, check spell correction and provide auto completion for a word.
 ==================================================================
 
 Data Structures and Performance in Java from University of California, San Diego offered through Coursera https://www.coursera.org/learn/data-structures-optimizing-performance
